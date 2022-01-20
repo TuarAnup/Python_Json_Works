@@ -86,7 +86,3 @@ The second JSON file should be called monthlyByState.json. It should contain the
 	},
 	...
 }
-
-Please provide as your solution the two JSON files as described above plus any and all code you wrote to achieve your result. Please round all decimal values to 2 digits of precision, rounding to the nearest value. In your code, follow best practices and comment appropriately. And as this will be part of a live dashboard application, please consider the real-time performance of your solution. The JSON data you've been provided is just a sample of the data. In the real world your application will need to handle much bigger numbers of loans than in this sample. You have three hours to complete this challenge. You are free to use any reference materials or resources you'd like in order to solve the problem. Also, while we are primarily a .NET shop and a C# solution is preferred, you are free to use whatever languages and/or tools you'd like to generate your solution.
-
-Good luck!
